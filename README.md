@@ -1,4 +1,4 @@
-# WasteClassification-week-1
+# Waste Classification Week-1
 An AI model to classify waste types using CNN
 This project uses a Convolutional Neural Network (CNN) to classify waste images into six categories:
 **cardboard**, **glass**, **metal**, **paper**, **plastic**, and **trash**.
@@ -28,7 +28,7 @@ How to Run?
 os.environ['KAGGLE_USERNAME'] = 'your_username_here'
 os.environ['KAGGLE_KEY'] = 'your_key_here'
 
-# Waste clasification Week-2
+# Waste Classification Week-2
 
 Integrated data augmentation using ImageDataGenerator to improve model generalization.
 
