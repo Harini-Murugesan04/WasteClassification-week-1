@@ -40,7 +40,7 @@ Included a classification report showing precision, recall, and F1-score per cla
 
 Analyzed performance drops and planned to improve training with more epochs and cleaner input images.
 
-#Waste Classification Week-3
+# Waste Classification Week-3
 
 Added training and validation accuracy/loss graphs for performance visualization
 
